@@ -1,19 +1,19 @@
 ## Hey there 👋
-I'm Gyan, a Data Scientist based in Ghana
+I'm Gyan, a Data Scientist based in Ghana.
 
-I build software and technology solutions with the implementation of applied AI
+I build software and technology solutions using applied AI.
 
-Also, explore new technologies, read ML papers & tons of research
+Also, explore new technologies, read ML papers & tons of research.
 
 My main tech stack is Python, PyTorch, PostgreSQL and FastAPI. 
 
-My favorite software tools are Notion, VsCode, Replit and TickTick
+My favorite software tools are Notion, VsCode, Arc Browser and TickTi.
 
-Currently the Co-Founder of Infinimus Labs & Engineering team, Building LevLang (a speech-based AI language learning companion)
+Currently the Co-Founder of Infinimus Labs & Engineering team, Building LevLang (a speech-based AI language learning companion).
 
 Fun Facts
-1. Love to research & build
-2. Read books & watch podcast
-3. Watch anime
+1. Love to research & build.
+2. Read books & watch podcasts.
+3. Watch anime.
 
 
