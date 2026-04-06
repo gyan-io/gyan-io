@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey there 👋
+I'm Gyan, a Data Scientist based in Ghana
 
-<!--
-**gyan-io/gyan-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software and technology solutions with the implementation of applied AI
 
-Here are some ideas to get you started:
+Also, explore new technologies, read ML papers & tons of research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is Python, PyTorch, PostgreSQL and FastAPI. 
+
+My favorite software tools are Notion, VsCode, Replit and TickTick
+
+Currently the Co-Founder of Infinimus Labs & Engineering team, Building LevLang (a speech-based AI language learning companion)
+
+Fun Facts
+1. Love to research & build
+2. Read books & watch podcast
+3. Watch anime
+
+
