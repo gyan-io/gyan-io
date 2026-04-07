@@ -9,7 +9,7 @@ My main tech stack is Python, PyTorch, PostgreSQL and FastAPI.
 
 My favorite software tools are Notion, VS Code, Arc Browser and TickTick.
 
-Currently, the Co-Founder of Infinimus Labs, Building LevLang (a speech-based AI language learning companion).
+Currently, the Backend & AI Engineer (Part-time) at Infinimus Labs, Building LevLang (a speech-based AI language learning companion).
 
 Fun Facts
 1. Love to research & build.
