@@ -1,11 +1,11 @@
 ## Hey there 👋
-I'm Gyan, a Data Scientist based in Ghana.
+I'm Gyan, a Data Scientist/ML Engineer based in Ghana.
 
-I build software and technology solutions using applied AI.
-
-Exploring new technologies, reading ML papers & tons of research.
+Love to tinker or build projects, self-learning also
+Leveraging Big Data & Applied AI to solve complex issues while addressing UN SDGs.
 
 Main tech stack: Python, PyTorch, PostgreSQL and FastAPI. 
 
-Currently, Co-founder & CTO at Infinimus Labs, Building LevLang (a speech-based AI language learning companion).
+Backend & AI Engineer/technical lead at Infinimus Labs/Tech (part-time), working on LevLang (a speech-based AI language learning companion).
+
 
